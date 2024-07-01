@@ -32,7 +32,7 @@ const Page = () => {
         <Image
           src={Avatar}
           alt="Samir Niroula"
-          className="object-cover w-auto h-32 md:w-32 md:h-auto grayscale"
+          className="object-cover w-auto h-32 md:w-32 md:h-auto grayscale rounded-md"
           width={300}
           height={300}
           placeholder="blur"
