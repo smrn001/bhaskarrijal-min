@@ -3,7 +3,7 @@ import React from 'react'
 const Skills = () => {
     const skills = [
         {
-            name: 'Frontend with React (Next.js)',
+            name: 'Frontend with React',
             description: 'Unconscious Competence'
         },
         {

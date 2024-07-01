@@ -3,50 +3,26 @@ import React from 'react'
 const Projects = () => {
     const projects = [
         {
-            name: 'Image Compressor',
-            link: 'https://bhaskarrijal.me/tools/image-compressor',
+            name: 'Web-Ide',
+            link: 'https://ide.samirn.com.np',
             description: 'Web Application'
         },
         {
-            name: 'Byte Converter',
+            name: 'Note Sharing Platform',
             link: 'https://bhaskarrijal.me/tools/byte-converter',
             description: 'Web Application'
         },
         {
-            name: 'Password Generator',
-            link: 'https://bhaskarrijal.me/tools/password-generator',
+            name: 'Quote Generator',
+            link: 'https://smrn001.github.io/randomQuote/',
             description: 'Web Application'
         },
         {
-            name: 'Weather',
-            link: 'https://bhaskarrijal.me/tools/weather',
+            name: 'Donot Animation',
+            link: 'https://donut.samirn.com.np/',
             description: 'Web Application'
-        },
-        {
-            name: 'Weight on Mars',
-            link: 'https://bhaskarrijal.me/tools/weight-on-mars',
-            description: 'Web Application'
-        },
-        {
-            name: 'QR Code Generator',
-            link: 'https://bhaskarrijal.me/tools/qr-generator',
-            description: 'Web Application'
-        },
-        {
-            name: 'Basic Neural',
-            link: 'https://github.com/bhaskarrijal/neural',
-            description: 'Unpublished'
-        },
-        {
-            name: 'DFA Password Validator',
-            link: 'https://github.com/bhaskarrijal/dfa-password-validator',
-            description: 'Unpublished'
-        },
-        {
-            name: 'DFA Tokenizer',
-            link: 'https://github.com/bhaskarrijal/dfa-tokenizer',
-            description: 'Unpublished'
         }
+       
     ]
     return (
         <>

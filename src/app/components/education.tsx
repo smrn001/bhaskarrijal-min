@@ -5,17 +5,17 @@ const Education = () => {
         {
             degree: 'Bachelors',
             institution: 'Tribhuvan University IOST, BSc. CSIT',
-            date: '2021 - Present'
+            date: '2023 - Present'
         },
         {
             degree: 'Higher Secondary Education',
             institution: 'National Examination Board',
-            date: '2016 - 2018'
+            date: '2020 - 2023'
         },
         {
             degree: 'School Leaving Certificate',
             institution: 'National Examination Board',
-            date: '2015'
+            date: '2020'
         }
     ]
     return (

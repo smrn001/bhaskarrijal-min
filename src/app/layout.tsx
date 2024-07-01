@@ -11,15 +11,15 @@ export default function RootLayout({
 				<meta charSet="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-				<title>Bhaskar Rijal</title>
-				<meta name="description" content="Bhaskar Rijal's personal website" />
-				<meta name="author" content="Bhaskar Rijal" />
+				<title>Samir Niroula</title>
+				<meta name="description" content="Samir Niroula's personal website" />
+				<meta name="author" content="Samir Niroula" />
 
 				{/* OG */}
-				<meta property="og:title" content="Bhaskar Rijal" />
-				<meta property="og:description" content="Bhaskar Rijal's personal website" />
+				<meta property="og:title" content="Samir Niroula" />
+				<meta property="og:description" content="Samir Niroula's personal website" />
 				<meta property="og:type" content="website" />
-				<meta property="og:url" content="https://new.bhaskarrijal.me" />
+				<meta property="og:url" content="https://new.samirn.com.np" />
 				<meta property="og:image" content="/thumb.png" />
 
 				<link rel="preconnect" href="https://fonts.googleapis.com" />
