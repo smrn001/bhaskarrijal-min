@@ -17,7 +17,7 @@ const Projects = () => {
             link: 'https://smrn001.github.io/randomQuote/',
             description: 'Web Application'
         },
-        {
+        {   
             name: 'Donot Animation',
             link: 'https://donut.samirn.com.np/',
             description: 'Web Application'
